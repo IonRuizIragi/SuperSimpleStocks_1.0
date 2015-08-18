@@ -1,0 +1,5 @@
+c:\users\ion\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\SuperSimpleStocks.csprojResolveAssemblyReference.cache
+c:\users\ion\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\SuperSimpleStocks.pdb
+c:\users\ion\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\SuperSimpleStocks.pdb
+C:\Users\Ion\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\SuperSimpleStocks.exe
+C:\Users\Ion\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\SuperSimpleStocks.exe
